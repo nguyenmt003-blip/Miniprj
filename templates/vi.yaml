@@ -1,0 +1,13 @@
+labels:
+  BOOK: "{san} là nước trong lý thuyết khai cuộc."
+  FORCED: "{san} là nước bắt buộc."
+  BRILLIANT: "{san}!! Nước thí quân xuất sắc."
+  GREAT: "{san}! Nước đi then chốt, gần như duy nhất."
+  BEST: "{san} là nước đi tốt nhất."
+  EXCELLENT: "{san} là nước rất tốt."
+  GOOD: "{san} là nước ổn."
+  INTERESTING: "{san} là nước thú vị."
+  INACCURACY: "{san} hơi thiếu chính xác. Nên đi {best}."
+  MISTAKE: "{san} là sai lầm. Nên đi {best}."
+  MISS: "{san} bỏ lỡ cơ hội. Nên đi {best}."
+  BLUNDER: "{san} là sai lầm nghiêm trọng. Nên đi {best}."

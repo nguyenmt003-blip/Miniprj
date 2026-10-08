@@ -1,0 +1,36 @@
+[Event "Paris"]
+[Site "Paris FRA"]
+[Date "1858.10.23"]
+[Round "?"]
+[White "Paul Morphy"]
+[Black "Duke Karl / Count Isouard"]
+[Result "1-0"]
+[EventDate "1858.??.??"]
+[ECO "C41"]
+[WhiteElo "?"]
+[BlackElo "?"]
+[PlyCount "33"]
+
+1. e4 { e4 là nước đi tốt nhất. } 1... e5 { e5 là nước đi tốt nhất. } 2. Nf3
+{ Nf3 là nước đi tốt nhất. } 2... d6 { d6 là nước ổn. } 3. d4
+{ d4 là nước đi tốt nhất. } 3... Bg4 { Bg4 là nước ổn. } 4. dxe5
+{ dxe5 là nước rất tốt. } 4... Bxf3 $6
+{ Bxf3 hơi thiếu chính xác. Nên đi Nc6. } 5. Qxf3 { Qxf3 là nước đi tốt nhất. }
+5... dxe5 { dxe5 là nước đi tốt nhất. } 6. Bc4 $6
+{ Bc4 hơi thiếu chính xác. Nên đi Qb3. } 6... Nf6 $2
+{ Nf6 là sai lầm. Nên đi Qf6. } 7. Qb3 { Qb3 là nước đi tốt nhất. } 7... Qe7
+{ Qe7 là nước đi tốt nhất. } 8. Nc3 { Nc3 là nước ổn. } 8... c6
+{ c6 là nước đi tốt nhất. } 9. Bg5 { Bg5 là nước đi tốt nhất. } 9... b5 $2
+{ b5 là sai lầm. Nên đi Kd8. } 10. Nxb5 $1
+{ Nxb5! Nước đi then chốt, gần như duy nhất. } 10... cxb5 $6
+{ cxb5 hơi thiếu chính xác. Nên đi Qb4+. } 11. Bxb5+ $1
+{ Bxb5+! Nước đi then chốt, gần như duy nhất. } 11... Nbd7
+{ Nbd7 là nước đi tốt nhất. } 12. O-O-O { O-O-O là nước đi tốt nhất. } 12...
+Rd8 { Rd8 là nước rất tốt. } 13. Rxd7 { Rxd7 là nước đi tốt nhất. } 13... Rxd7
+{ Rxd7 là nước rất tốt. } 14. Rd1 { Rd1 là nước đi tốt nhất. } 14... Qe6
+{ Qe6 là nước ổn. } 15. Bxd7+ { Bxd7+ là nước đi tốt nhất. } 15... Nxd7
+{ Nxd7 là nước rất tốt. } 16. Qb8+ $3 { Qb8+!! Nước thí quân xuất sắc. } 16...
+Nxb8 { Nxb8 là nước bắt buộc. } 17. Rd8# $1
+{ Rd8#! Nước đi then chốt, gần như duy nhất. } 1-0
+
+
