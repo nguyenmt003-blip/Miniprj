@@ -324,7 +324,7 @@ _Pvt_Extensions
 # Paket dependency manager
 .paket/paket.exe
 paket-files/
-
+*.exe
 # FAKE - F# Make
 .fake/
 
@@ -480,3 +480,6 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# Data
+*.bin

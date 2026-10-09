@@ -15,6 +15,9 @@ class Config:
     fast_multipv: int = 2
     hot_dwc: float = -3.0      # dwc nhanh <= ngưỡng này -> nghi sai lầm, đào sâu
     hot_gap: float = 12.0      # gap12 nhanh >= ngưỡng này -> nghi nước Great/Brilliant, đào sâu
+    # song song hóa (NEW)
+    parallel: bool = False
+    workers: int = 2
     # phân loại (đơn vị: % Win Chance, góc nhìn người đi)
     t_best: float = -2.0
     t_good: float = -5.0
